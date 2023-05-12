@@ -1,0 +1,14 @@
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/apitest/transformer/TransformerAggregation.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/apitest/transformer/transformerTest.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/apitest/source/generateSize.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/apitest/source/KafkaSourceFlink.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/day1/StreamWordCount.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/day2/StreamWordCount.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/apitest/source/CollectionSource.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/apitest/source/beans/SensorReading.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/apitest/source/DataSource/MySource.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/apitest/source/MySourceFlink.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/apitest/source/FileSource.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/day1/Example1.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/apitest/transformer/TransformerSplit.java
+/Users/yzzer/IdeaProjects/javas/BigData/Flink/src/main/java/com/yzzer/day1/BatchWordCount.java
